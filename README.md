@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there I'm Rosa👋
 
 
 - 🔭 I am working as an Infrastructure Sorcerer at <a href="https://praterraines.co.uk" target="_blank">Prater Raines</a>.
